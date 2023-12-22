@@ -13,3 +13,6 @@ Your SUSE Packaging Team
 
 
 ![Happy Holidays!](xmas2023.png?=1024x)
+
+
+The font used in the SVG is [Alex Brush](https://fonts.google.com/specimen/Alex+Brush)
